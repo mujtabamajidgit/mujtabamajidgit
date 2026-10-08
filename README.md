@@ -1,4 +1,4 @@
-# Hi, I'm Mujtaba Majid 👋
+# Hi, I'm Mujtaba Majid Baig👋
 
 ### Undergraduate Software Engineering Student | AI Automation | AI-Assisted Development | International Sales | 
 
