@@ -1,6 +1,6 @@
 # Hi, I'm Mujtaba Majid 👋
 
-### Undergraduate Software Engineering Student | Web Development | Automation | AI-Assisted Development | International Sales
+### Undergraduate Software Engineering Student | AI Automation | AI-Assisted Development | International Sales | 
 
 I'm an undergraduate Software Engineering student with a growing foundation in software development, automation, and AI-assisted development.
 
