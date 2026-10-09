@@ -8,7 +8,7 @@ I am a Software Engineering student (2027) with a sales background, and I am bui
 - AI-Powered Customer Support & Order Management (restaurant demo)
 - Auto Email Reply System
 - Car Showroom Customer Support Agent
-- Inventory Management System
+- Medical Store Inventory Management System
 
 ## Links
 - Portfolio: https://mujtabamajidgit.github.io
